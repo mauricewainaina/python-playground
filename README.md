@@ -1,2 +1,5 @@
-# python-playground
+# python-playground CI code
+
+# CI stands for Continuous integration. Its a DevOps software development practice where developers regularly merge their code changes into a central repository, after which automated builds and tests are run.
+
 # this python code is run by jenkins as a CI, to build and test this simple python code "print("hello world")".
