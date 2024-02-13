@@ -1,3 +1,5 @@
+from hello-world import *
+
 def test_hello_world_output(capsys):
     print("hello world")
     captured = capsys.readouterr()  # Capture printed output
