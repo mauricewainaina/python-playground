@@ -1,4 +1,4 @@
-import hello-world 
+import file2 
 
 def test_hello_world():
     expected_output = hello-world.output
