@@ -1,1 +1,1 @@
-my_variable = print("hello world")
+my_variable = print("helloworld")
