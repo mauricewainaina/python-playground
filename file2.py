@@ -1,6 +1,6 @@
 import file1
 
-if file1.my_variable == "hello world":
+if file1.my_variable == "helloworld":
     result = True
 else:
     result = False
